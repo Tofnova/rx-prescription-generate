@@ -1,0 +1,51 @@
+{
+    "date": "07/12/2025",
+    "rpid": "071225015302",
+    "userNumber": null,
+    "medicineData": [],
+    "cc_oe_avd_xry": {
+        "cc": {
+            "notes": "",
+            "graphOn": false,
+            "graph": {
+                "RT": false,
+                "LT": false,
+                "RB": false,
+                "LB": false
+            }
+        },
+        "oe": {
+            "notes": "",
+            "graphOn": false,
+            "graph": {
+                "LT": "",
+                "RT": "",
+                "LB": "",
+                "LR": ""
+            }
+        },
+        "avd": {
+            "notes": false,
+            "graphOn": false,
+            "graph": {
+                "LT": "",
+                "RT": "",
+                "LB": "",
+                "LR": ""
+            }
+        },
+        "x_ray": {
+            "opg": "",
+            "iopa": {
+                "title": "",
+                "graphOn": false,
+                "graph": {
+                    "LT": "",
+                    "RT": "",
+                    "LB": "",
+                    "LR": ""
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+<!-- USE THE REACT COMPONENTS AND HOOKS DATA DOCUMENTS -->
+
+
+<!-- * use the componen tes or use any system table -->
+<!-- import system  -->
+<!-- use the react -->
+components/table
+
+<Table tableData={patiebtData} action={{ deleteBtn: "deleate", viewBtn: "view" //? The user data view call. }} />
+
+<!-- ------------------------------------------------------------------------------------------------------- -->
+
+
+
+
+<!-- USE THE ANIMITON SYSTEM AND RUN ANIMITON NDSQL DATABASES SYSTEM WITH POWER SETUP  -->
+
+DEVELOPER/UI
+
+ui/components/devUi
